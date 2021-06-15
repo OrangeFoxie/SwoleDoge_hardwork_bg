@@ -11,7 +11,7 @@ Swolde doge is pushing u to work harder !!!
 
 -------------------------------------------------------------------------
 <h2>SwoleDoge 1</h2>
-<img src="https://github.com/OrangeFoxie/SwoleDoge_hardwork_bg/blob/main/PNG/Doge%20cheems.png" width="100%">
+<img src="https://github.com/OrangeFoxie/SwoleDoge_hardwork_bg/blob/main/PNG/Doge%20cheems%201.png" width="100%">
 
 <h2>SwoleDoge 2</h2>
 <img src="https://github.com/OrangeFoxie/SwoleDoge_hardwork_bg/blob/main/PNG/Doge%20cheems%202.png" width="100%">
