@@ -6,4 +6,4 @@ Swolde doge is pushing u to work harder !!!
 
 -------------------------------------------------------------------------
 
-<img src=".\SwoleDoge_hardwork_bg\PNG" width="100%">
+<img src="https://pin.it/1cYGMvC" width="100%">
