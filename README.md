@@ -6,6 +6,4 @@ Swolde doge is pushing u to work harder !!!
 
 -------------------------------------------------------------------------
 
-<img src="https://pin.it/1cYGMvC" width="100%">
-![ScreenShot](https://pin.it/1cYGMvC)
-![ScreenShot](./PNG/Doge cheems.png)
+<img src="https://github.com/OrangeFoxie/SwoleDoge_hardwork_bg/blob/main/PNG/Doge%20cheems.png" width="100%">
