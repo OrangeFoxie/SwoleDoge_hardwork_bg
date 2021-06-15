@@ -20,4 +20,4 @@ Swolde doge is pushing u to work harder !!!
 <img src="https://github.com/OrangeFoxie/SwoleDoge_hardwork_bg/blob/main/PNG/Doge%20cheems_iphone7Plus_1.png" width="100%">
 
 <h2>SwoleDoge scaled for iphone 7 plus 2</h2>
-<img src="https://github.com/OrangeFoxie/SwoleDoge_hardwork_bg/blob/main/PNG/Doge%20cheems_iphone7Plus.png" width="100%">
+<img src="https://github.com/OrangeFoxie/SwoleDoge_hardwork_bg/blob/main/PNG/Doge%20cheems_iphone7Plus_2.png" width="100%">
