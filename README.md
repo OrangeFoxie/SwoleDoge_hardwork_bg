@@ -2,7 +2,7 @@
 Swolde doge is pushing u to work harder !!!
 -------------------------------------------------------------------------
 
-<p>I created this after been failed an interview for new intership at MWG >.<</p>
+<p>I created this after been failed an interview for new internship at MWG >.<</p>
 
 -------------------------------------------------------------------------
 
