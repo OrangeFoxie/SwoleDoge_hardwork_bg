@@ -6,8 +6,8 @@ Swolde doge is pushing u to work harder !!!
 
 -------------------------------------------------------------------------
 
-Images is in PNG folder
-Source file is in PSD (photoshop file)
+<p>Images is in PNG folder</p>
+<p>Source file is in PSD (photoshop file)</p>
 
 -------------------------------------------------------------------------
 <h2>SwoleDoge 1</h2>
